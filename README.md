@@ -1,2 +1,2 @@
-# Proposal-Generator
-Generate a proposal from a menu of options
+# Emaily-Sample
+Sample Emaily MERN Stack App
