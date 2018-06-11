@@ -8,7 +8,8 @@
     "npm": "5.0.3"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +22,9 @@
   },
   "homepage": "https://github.com/bepson/Proposal-Generator#readme",
   "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.3",
+    "mongoose": "^5.1.4",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0"
   }
